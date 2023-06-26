@@ -1,2 +1,2 @@
 # Arduino
-Arduino and ESP8266 codes
+Arduino IDE and Arduino IOT Cloud codes used to control microcontrollers like Arduino UNO and ESP8266.
