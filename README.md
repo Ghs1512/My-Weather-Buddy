@@ -1,2 +1,2 @@
 # Arduino
-Arduino IDE and Arduino IOT Cloud codes used to control microcontrollers like Arduino UNO and ESP8266.
+Using ESP8266 node MCU module, a weather monitoring system was made and it could measure the temperature, humidity and the moisture level of the soil and this data was updated and stored in the Arduino IoT cloud. An UI was made using Arduino IoT cloud using which the data acquired by the sensors was made available in an organized manner to the user to analyze. This UI can be accessed on your mobile phones using the Arduino IoT cloud app or on PC using the website.
